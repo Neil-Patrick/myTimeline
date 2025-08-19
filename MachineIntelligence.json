@@ -6,7 +6,7 @@
     },
     "text": {
       "headline": "The Old Era: The Historical Foundation of Machine Learning <br/> 1943 - 1973",
-      "text": "<p>“From the 1940s to the early 1970s, machine learning emerged as a field of curiosity and experimentation. Pioneers introduced neural models, early algorithms, and symbolic systems that laid the groundwork for modern AI. Despite limitations and the first ‘AI winter,’ this era established the foundations that shaped the future of machine learning.”  </p>"
+      "text": "<p>From the 1940s to the early 1970s, machine learning emerged as a field of curiosity and experimentation. Pioneers introduced neural models, early algorithms, and symbolic systems that laid the groundwork for modern AI. Despite limitations and the first ‘AI winter,’ this era established the foundations that shaped the future of machine learning.</p>"
     }
   },
   "events": [
@@ -59,7 +59,7 @@
       },
       "text": {
         "headline": "Samuel’s Checkers Program",
-        "text": "<p>Arthur Samuel developed a checkers-playing program capable of improving its strategies the more it played. This was one of the first demonstrations of machine learning, showing that machines could adapt and learn from experience. Samuel’s work also popularized the term “machine learning.”</p>"
+        "text": "<p>Arthur Samuel developed a checkers-playing program capable of improving its strategies the more it played. This was one of the first demonstrations of machine learning, showing that machines could adapt and learn from experience. Samuel’s work also popularized the term “machine learning”.</p>"
       }
     },
     {
@@ -72,7 +72,7 @@
       },
       "text": {
         "headline": "Dartmouth Workshop (Birth of AI)",
-        "text": "<p>The Dartmouth Summer Research Project on Artificial Intelligence officially established AI as a research field. Led by John McCarthy, Marvin Minsky, and others, the workshop gathered scientists to discuss possibilities of machines simulating human learning. Machine learning became a recognized subfield under the larger AI umbrella.”</p>"
+        "text": "<p>The Dartmouth Summer Research Project on Artificial Intelligence officially established AI as a research field. Led by John McCarthy, Marvin Minsky, and others, the workshop gathered scientists to discuss possibilities of machines simulating human learning. Machine learning became a recognized subfield under the larger AI umbrella.</p>"
       }
     },
     {
@@ -85,7 +85,7 @@
       },
       "text": {
         "headline": "The Perceptron",
-        "text": "<p>Frank Rosenblatt introduced the Perceptron, an early type of artificial neural network. The perceptron was capable of simple pattern recognition, which generated great optimism in the AI community. Though later criticized for its limitations, it marked an important milestone in neural network development.”</p>"
+        "text": "<p>Frank Rosenblatt introduced the Perceptron, an early type of artificial neural network. The perceptron was capable of simple pattern recognition, which generated great optimism in the AI community. Though later criticized for its limitations, it marked an important milestone in neural network development.</p>"
       }
     },
     {
@@ -98,7 +98,7 @@
       },
       "text": {
         "headline": "ELIZA and Early Symbolic AI",
-        "text": "<p>Joseph Weizenbaum created ELIZA, a simple program that simulated human conversation using pattern-matching techniques. Around the same time, symbolic AI approaches dominated research, focusing on rules and logic rather than learning. These projects demonstrated potential but also exposed limitations in handling real-world complexity.”</p>"
+        "text": "<p>Joseph Weizenbaum created ELIZA, a simple program that simulated human conversation using pattern-matching techniques. Around the same time, symbolic AI approaches dominated research, focusing on rules and logic rather than learning. These projects demonstrated potential but also exposed limitations in handling real-world complexity.</p>"
       }
     },
     {
@@ -111,7 +111,7 @@
       },
       "text": {
         "headline": "Nearest Neighbor Algorithm",
-        "text": "<p>The k-Nearest Neighbors (k-NN) algorithm emerged as one of the earliest practical methods for pattern recognition. It classified data points by comparing them to known examples in memory. This algorithm demonstrated the value of statistical approaches to machine learning.”</p>"
+        "text": "<p>The k-Nearest Neighbors (k-NN) algorithm emerged as one of the earliest practical methods for pattern recognition. It classified data points by comparing them to known examples in memory. This algorithm demonstrated the value of statistical approaches to machine learning.</p>"
       }
     },
     {
