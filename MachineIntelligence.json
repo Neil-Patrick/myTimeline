@@ -12,7 +12,8 @@
   "events": [
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=BDr0HxUI3Bo"
+        "url": "https://www.youtube.com/watch?v=BDr0HxUI3Bo",
+        "credit": "<a href='https://www.youtube.com/watch?v=BDr0HxUI3Bo'>YouTube</a>"
       },
       "start_date": {
         "year": "1943"
@@ -24,7 +25,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=dDTf7QYUq48"
+        "url": "https://www.youtube.com/watch?v=dDTf7QYUq48",
+        "credit": "<a href='https://www.youtube.com/watch?v=dDTf7QYUq48'>YouTube</a>"
       },
       "start_date": {
         "year": "1949"
@@ -36,7 +38,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=wXMLF54AUwU"
+        "url": "https://www.youtube.com/watch?v=wXMLF54AUwU",
+        "credit": "<a href='https://www.youtube.com/watch?v=wXMLF54AUwU'>YouTube</a>"
       },
       "start_date": {
         "year": "1950"
@@ -48,7 +51,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=4h0QpNWrPbg"
+        "url": "https://www.youtube.com/watch?v=4h0QpNWrPbg",
+        "credit": "<a href='https://www.youtube.com/watch?v=4h0QpNWrPbg'>YouTube</a>"
       },
       "start_date": {
         "year": "1951"
@@ -60,7 +64,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=3FX2wmJ1fAQ"
+        "url": "https://www.youtube.com/watch?v=3FX2wmJ1fAQ",
+        "credit": "<a href='https://www.youtube.com/watch?v=3FX2wmJ1fAQ'>YouTube</a>"
       },
       "start_date": {
         "year": "1956"
@@ -72,7 +77,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=Ip6RIHwi21c"
+        "url": "https://www.youtube.com/watch?v=Ip6RIHwi21c",
+        "credit": "<a href='https://www.youtube.com/watch?v=Ip6RIHwi21c'>YouTube</a>"
       },
       "start_date": {
         "year": "1957"
@@ -84,7 +90,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=8jGpkdPO-1Y"
+        "url": "https://www.youtube.com/watch?v=8jGpkdPO-1Y",
+        "credit": "<a href='https://www.youtube.com/watch?v=8jGpkdPO-1Y'>YouTube</a>"
       },
       "start_date": {
         "year": "1966"
@@ -96,7 +103,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=0yqPXTNau5w"
+        "url": "https://www.youtube.com/watch?v=0yqPXTNau5w",
+        "credit": "<a href='https://www.youtube.com/watch?v=0yqPXTNau5w'>YouTube</a>"
       },
       "start_date": {
         "year": "1967"
@@ -108,7 +116,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=WqbTMQDGfYs"
+        "url": "https://www.youtube.com/watch?v=WqbTMQDGfYs",
+        "credit": "<a href='https://www.youtube.com/watch?v=WqbTMQDGfYs'>YouTube</a>"
       },
       "start_date": {
         "year": "1969"
@@ -120,7 +129,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=UeE7qqoeCXg"
+        "url": "https://www.youtube.com/watch?v=UeE7qqoeCXg",
+        "credit": "<a href='https://www.youtube.com/watch?v=UeE7qqoeCXg'>YouTube</a>"
       },
       "start_date": {
         "year": "1973"
@@ -138,7 +148,7 @@
       },
       "text": {
         "headline": "REFERENCES/CITATIONS",
-        "text": "<p>Concise Software blog. A brief history of machine learning. (2020, October 6). Concise Software. https://concisesoftware.com/blog/history-of-machine-learning/ TechTarget Karjian, R. (2024, June 13). History and evolution of machine learning: A timeline. TechTarget. Retrieved from https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline</p>"
+        "text": "<br/><p>Concise Software blog. A brief history of machine learning. (2020, October 6). Concise Software. https://concisesoftware.com/blog/history-of-machine-learning/</p><br/><p>TechTarget. Karjian, R. (2024, June 13). History and evolution of machine learning: A timeline. TechTarget. https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline</p>"
       }
     }
   ]
